@@ -8,7 +8,6 @@ Welcome to the **Public Snippets** repository! This repository contains a collec
 - [Snippets](#snippets)
   - [Custom Object Type for Oracle Database](#custom-object-type-for-oracle-database)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
